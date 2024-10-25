@@ -1,0 +1,2 @@
+john_doe mypassword
+jane_doe pass123

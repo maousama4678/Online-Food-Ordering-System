@@ -1,0 +1,9 @@
+1
+Burger
+120
+2
+Pizza
+250
+3
+Coke
+50
